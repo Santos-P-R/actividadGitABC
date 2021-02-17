@@ -9,5 +9,5 @@
  * @author Diurno
  */
 public class ClaseA {
-    
+    int i =0;
 }
